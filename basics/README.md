@@ -4,3 +4,5 @@ pwd (Print Working Directory) prints the absolute path of your current directory
  task1. Display the contents list of your current directory (ls)
 
 task2. a script that changes the working directory to the users home directory.
+
+task3. Display current directory contents in a long format(ls -l)
